@@ -3,3 +3,5 @@
 echo "This is Samyu. I have done changes in code from my local machine and tested the code as well."
 
 echo "Recent changes updated."
+
+echo "Enabled automation in jenkins"
