@@ -6,4 +6,4 @@ echo "Recent changes updated."
 
 echo "Enabled automation in jenkins"
 
-echo "Changes done from developer: pradeep "
+echo "Changes done from developer: ----pradeep "
